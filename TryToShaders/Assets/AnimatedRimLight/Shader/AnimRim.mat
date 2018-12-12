@@ -41,7 +41,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AnimSpeed: 0.25
-    - _RimPower: 2
+    - _RimPower: 10
     - __dirty: 1
     m_Colors:
-    - _RimColor: {r: 0.6792453, g: 0, b: 0, a: 0}
+    - _MainColor: {r: 0, g: 0, b: 0, a: 0}
+    - _RimColor: {r: 0.18512487, g: 1, b: 0.10849059, a: 0}
