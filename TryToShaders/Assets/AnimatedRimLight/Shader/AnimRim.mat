@@ -42,10 +42,10 @@ Material:
     m_Floats:
     - _AnimSpeed: 0.25
     - _Opacity: 1
-    - _RimPower: 4.5
+    - _RimPower: 8
     - __dirty: 1
     m_Colors:
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
     - _RimColor: {r: 0.18512487, g: 1, b: 0.10849059, a: 0}
-    - _SpeedMultiplier: {r: 0, g: 0.01, b: 0, a: 0}
-    - _Tilling: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _SpeedMultiplier: {r: 0.02, g: 0.01, b: 0, a: 0}
+    - _Tilling: {r: 1, g: 1, b: 0, a: 0}
