@@ -162,11 +162,11 @@ Shader "ASESampleShaders/AnimRim"
 }
 /*ASEBEGIN
 Version=16100
-2064;18;1505;958;1358.837;439.2476;1.922839;True;True
+2064;18;1505;958;2496.049;342.0395;1;True;True
 Node;AmplifyShaderEditor.CommentaryNode;45;-2087.902,-164.9283;Float;False;263.5051;536.8103;Animation;4;47;46;44;51;;0.5166429,0.6321102,0.8490566,1;0;0
 Node;AmplifyShaderEditor.TexCoordVertexDataNode;44;-2057.743,-123.6106;Float;False;0;2;0;5;FLOAT2;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
-Node;AmplifyShaderEditor.Vector2Node;46;-2022.504,3.213604;Float;False;Property;_Tilling;Tilling;9;0;Create;True;0;0;False;0;0,0;1,0.2;0;3;FLOAT2;0;FLOAT;1;FLOAT;2
-Node;AmplifyShaderEditor.Vector2Node;47;-2018.432,148.2849;Float;False;Property;_SpeedMultiplier;SpeedMultiplier;10;0;Create;True;0;0;False;0;0,0;0,0.5;0;3;FLOAT2;0;FLOAT;1;FLOAT;2
+Node;AmplifyShaderEditor.Vector2Node;46;-2022.504,3.213604;Float;False;Property;_Tilling;Tilling;9;0;Create;True;0;0;False;0;0,0;1,1;0;3;FLOAT2;0;FLOAT;1;FLOAT;2
+Node;AmplifyShaderEditor.Vector2Node;47;-2018.432,148.2849;Float;False;Property;_SpeedMultiplier;SpeedMultiplier;10;0;Create;True;0;0;False;0;0,0;0.02,0.01;0;3;FLOAT2;0;FLOAT;1;FLOAT;2
 Node;AmplifyShaderEditor.SimpleTimeNode;51;-2002.432,281.2849;Float;False;1;0;FLOAT;1;False;1;FLOAT;0
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;48;-1787.432,-43.71509;Float;False;2;2;0;FLOAT2;0,0;False;1;FLOAT2;0,0;False;1;FLOAT2;0
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;49;-1789.432,108.2849;Float;False;2;2;0;FLOAT2;0,0;False;1;FLOAT;0;False;1;FLOAT2;0
@@ -212,4 +212,4 @@ WireConnection;0;3;2;0
 WireConnection;0;5;4;0
 WireConnection;0;9;43;0
 ASEEND*/
-//CHKSM=D5B2B3B40A4A91ED73663BD6F637EADF1FFB5E46
+//CHKSM=FD8279C92CAD19A697E7987C1E54DA205DF3D0FC
