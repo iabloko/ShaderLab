@@ -42,7 +42,7 @@ Material:
     m_Floats:
     - _AnimSpeed: 0.25
     - _Opacity: 1
-    - _RimPower: 8
+    - _RimPower: 4
     - __dirty: 1
     m_Colors:
     - _MainColor: {r: 1, g: 1, b: 1, a: 0}
